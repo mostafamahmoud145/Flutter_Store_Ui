@@ -28,7 +28,7 @@
 
   <!-- Fourth set of three images -->
   <div>
-    <img src="https://github.com/mostafamahmoud145/Flutter_Store_Ui/assets/77023213/fe7baf91-993a-45d4-bf7d-9a996929a083" alt="Screenshot 2" width="200" />
+    <img src="https://github.com/mostafamahmoud145/Flutter_Store_Ui/assets/77023213/064b5685-7960-4a59-b2f4-8f01b56c8530" alt="Screenshot 2" width="200" />
     <img src="https://github.com/mostafamahmoud145/Flutter_Store_Ui/assets/77023213/bd0e18dd-3ea0-443a-9d0d-7a4848a7ddef" alt="Screenshot 1" width="200" />
     
     
