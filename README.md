@@ -4,7 +4,8 @@
 
   <!-- First set of three images -->
   <div>
-    <img src="https://github.com/mostafamahmoud145/Flutter_Store_UI_/assets/77023213/e6bb1c38-db1d-444e-9cc4-91cbfd5d6632" alt="Screenshot 1" width="200" />
+    <img src="![Screenshot_1696861017](https://github.com/mostafamahmoud145/Flutter_Store_Ui/assets/77023213/14f4b045-bedc-4c8c-aa6c-1bf8287ffa1e)
+" alt="Screenshot 1" width="200" />
     <img src="https://github.com/mostafamahmoud145/Flutter_Store_UI_/assets/77023213/dcfe009f-1159-45db-8b64-73304f55d608" alt="Screenshot 2" width="200" />
     <img src="https://github.com/mostafamahmoud145/Flutter_Store_UI_/assets/77023213/e57a2c42-b1f2-449e-908a-06ec2d02422d" alt="Screenshot 3" width="200" />
   </div>
